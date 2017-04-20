@@ -6,6 +6,7 @@ public class EqualsTest {
 		Point pt1 = new Point(10,20);
 		Point pt2 = new Point(10,20);
 		Point pt3 = pt2;
+		
 		/*
 		 * Point 객체 비교
 		 * equals, hashCode 메소드가 오버라이드 안된 경우
