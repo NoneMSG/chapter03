@@ -2,7 +2,7 @@ package util;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class DataTest {
+public class DateTest {
 
 	public static void main(String[] args) {
 		Date now = new Date();

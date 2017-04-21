@@ -3,6 +3,7 @@ package lang;
 public class PointTest {
 
 	public static void main(String[] args) {
+
 		Point pt = new Point();
 		
 		System.out.println(pt.getClass().getName());

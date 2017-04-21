@@ -5,7 +5,6 @@ public class InputStreamReaderTest {
 
 	public static void main(String[] args) {
 		InputStreamReader isr =null ;
-		
 		try {
 			//주스트림
 			isr = new InputStreamReader(new FileInputStream("ms949.txt"),"MS949");
